@@ -1,4 +1,4 @@
-# Egypt_Color_Mapping
+# Egypt_Map_Coloring 
 Egypt Color-Mapping using CSP Algorithm &amp; BackTracking search Algorithm 
 
 #### Imported Modules 
