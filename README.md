@@ -1,5 +1,5 @@
 # Egypt_Map_Coloring 
-Egypt Color-Mapping using CSP Algorithm &amp; BackTracking search Algorithm 
+Egypt Map-Coloring using CSP Algorithm &amp; BackTracking search Algorithm 
 
 #### Imported Modules 
 - geopandas 
